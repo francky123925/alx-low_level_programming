@@ -1,1 +1,1 @@
-alx-low_level_programming coures
+alx-low_level_programming courses
